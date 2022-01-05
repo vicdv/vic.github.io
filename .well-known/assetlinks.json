@@ -1,0 +1,11 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.fastmarkets.dashboard",
+    "sha256_cert_fingerprints":
+    ["36:70:4A:A4:A6:DE:66:2E:F1:EC:51:8F:F3:6B:A7:E6:9A:EE:86:99:EF:62:D6:1D:05:7F:73:D4:28:0B:97:87",
+     "40:1A:78:E3:B0:AD:6D:0A:C1:14:7D:DE:FB:BC:36:FC:F1:BA:91:16:25:7A:2C:1A:7B:8C:F7:A6:2B:CB:01:63",
+     "78:18:EF:E7:20:4B:8C:D7:CC:43:87:CD:B6:C1:1A:25:EA:19:93:0D:76:52:C0:24:D7:BD:E8:A2:04:9B:26:E9"]
+  }
+}]
